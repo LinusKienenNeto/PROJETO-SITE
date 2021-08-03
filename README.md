@@ -1,2 +1,2 @@
 # PROJETO SITE
- Projeto de um siye criado durante o dia
+ Projeto de um site criado durante o dia
